@@ -9,3 +9,9 @@
 [Link](https://dashboard.photonengine.com/app/create)
 
 ![Alt text](fusion.png "Optional title")
+
+# 3 Get Fusion App Id
+
+[Link](https://dashboard.photonengine.com/)
+
+![Alt text](fusion2.png "Optional title")
