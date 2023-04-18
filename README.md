@@ -15,3 +15,11 @@
 [Link](https://dashboard.photonengine.com/)
 
 ![Alt text](fusion2.png "Optional title")
+
+# 4 Create a new Voice application
+
+Like step 2, but *Select Photon SDK* value should be *VOICE*
+
+# 5 Get Voice App Id
+
+Like step 3
