@@ -23,3 +23,10 @@ Like step 2, but *Select Photon SDK* value should be *VOICE*
 # 5 Get Voice App Id
 
 Like step 3
+
+# Setting Fusion and Voice App Ids in Unity
+
+![Alt text](fusion3.png "Optional title")
+
+
+![Alt text](fusion4.png "Optional title")
