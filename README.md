@@ -7,3 +7,5 @@
 # 2 Create a new Fusion application
 
 [Link](https://dashboard.photonengine.com/app/create)
+
+![Alt text](/posts/path/to/img.jpg "Optional title")
