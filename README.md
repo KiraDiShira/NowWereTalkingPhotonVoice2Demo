@@ -45,5 +45,17 @@ At this point you should see two cube that can talk each other with voice.
 
 ## Random informations
 
+The player is an instance of **NetworkObject** prefab: NowWereTalkingPhotonVoice2Demo\Assets\Photon\PhotonVoice\Demos\Fusion\DemoNetworkObject.
+That prefab has a **Voice network object** component and a  **speaker** component in children.
+
+The **Runner and Voice** prefab has a **Fusion voice client** component and also a recorder component as child.
+
+In any client if you want to know if the local player is speaking you need something like this:
+
+```player.VoiceNetworkObject.RecorderInUse.IsCurrentlyTransmitting```
+
+Instead if you want to know if a remote player is speaking:
+
+```player.VoiceNetworkObject.IsSpeaking```
 
 
